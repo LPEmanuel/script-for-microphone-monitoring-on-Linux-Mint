@@ -10,4 +10,4 @@ Note: This one of my first little bash scripts ever written and I don't have a l
   "monitoring.sh" and acts as a automatic reset without breaking the script
 4. Rightclick on the desktop and create a simple launcher by adding the "monitoring.sh" script
 5. Have fun hearing yourself!
-6. To end it you have to click on the launchericon again
+6. To end it you have to click on the launcher icon again
