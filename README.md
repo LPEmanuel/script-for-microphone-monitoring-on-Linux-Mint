@@ -1,7 +1,7 @@
 # script-for-microphone-monitoring-on-Linux-Mint
-These are two little scripts for simply monitoring your microphone in Linux Mint with pulseaudio instead of using the terminal everytime!
+These are two little scripts for simply monitoring your microphone on Linux Mint with pulseaudio instead of using the terminal everytime!
 
-Note: This one of my first little bash scripts ever written and I don't have a lot of programming knowledge so far, so I'm open for improvements! Also I'm new to commission anything on GitHub!
+Note: Those are one of my first little bash scripts ever written and I don't have a lot of programming skills so far, so I'm open for improvements! Also I'm new to commissioning anything on GitHub!
 
 1. Download the .zip file and extract it in the directory where you want to have it located.
 2. Set the [PATH] in the scripts to their location
